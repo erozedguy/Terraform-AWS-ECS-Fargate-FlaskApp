@@ -50,7 +50,7 @@ ENTRYPOINT [ "python" ]
 CMD     [ "app.py" ]
 ```
 Construimos nuestra imagen docker
-![asg](assets/build.PNG)
+![asg](assets/build-image.PNG)
 
 Tageamos nuestra imagen para subirla a nuestro repositorio en ECR
 
@@ -237,4 +237,4 @@ terraform apply -auto-approve
 - `<public_ip>:5000`
 
 
-![asg](assets/results.PNG)
+![asg](assets/result.PNG)
