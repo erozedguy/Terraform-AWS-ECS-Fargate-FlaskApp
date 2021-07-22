@@ -1,1 +1,1 @@
-# Terraform - AWS ECS Fargate FlaskAppCancel changes
+# Terraform - AWS ECS Fargate FlaskApp
